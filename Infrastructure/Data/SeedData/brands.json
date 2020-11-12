@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "Name": "Udemy"
+  },
+  {
+    "Id": 2,
+    "Name": "Packt"
+  },
+  {
+    "Id": 3,
+    "Name": "RedHat"
+  },
+  {
+    "Id": 4,
+    "Name": "Apress"
+  },
+  {
+    "Id": 5,
+    "Name": "SkillShare"
+  },
+  {
+    "Id": 6,
+    "Name": "IBM"
+  }
+]
